@@ -15,7 +15,7 @@ function TermsandConditions() {
           {/* Intro */}
           <p>
             These Terms & Conditions govern payout-related services provided by{' '}
-            <span className="font-semibold text-gray-900">The Black Turn Digital Private Limited</span> to artists,
+            <span className="font-semibold text-gray-900">Kushal Mangal</span> to artists,
             creators, labels, and media companies. By using our payout and distribution
             services, you agree to the terms outlined below.
           </p>

@@ -179,7 +179,7 @@ const CallerTuneDistribution = () => {
       title: 'CRBT Distribution',
       icon: <Radio className="w-5 h-5" />,
       heading: 'CRBT Distribution India',
-      description: 'Caller Ring Back Tone (CRBT) solutions to enable your song for Caller Tune. If you are a singer and want your song to be made into Jio, Vi, Airtel, or BSNL caller tune, then you should take help of a call ring back tune solution provider company. The Black Turn Digital Private Limited uploads your song on all telecom networks and makes caller tune of your song and also generates CRBT codes.',
+      description: 'Caller Ring Back Tone (CRBT) solutions to enable your song for Caller Tune. If you are a singer and want your song to be made into Jio, Vi, Airtel, or BSNL caller tune, then you should take help of a call ring back tune solution provider company. Kushal Mangal uploads your song on all telecom networks and makes caller tune of your song and also generates CRBT codes.',
       features: [
         'Enable your song for CRBT/caller tune',
         'Get listed on Jio, Vi, Airtel, and BSNL',
@@ -635,7 +635,7 @@ const CallerTuneDistribution = () => {
                   <h3 className="text-lg sm:text-xl text-[#005f73] font-bold leading-tight">You keep 100% of your royalties!</h3>
                 </div>
                 <p className="text-gray-600 text-sm leading-relaxed">
-                  The Black Turn Digital Private Limited never takes a cut of your deals.
+                  Kushal Mangal never takes a cut of your deals.
                 </p>
               </div>
 
