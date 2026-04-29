@@ -248,7 +248,7 @@ const [openItems, setOpenItems] = useState(new Set());
     },
     {
       id: 2,
-      question: "WHAT KIND OF VIDEO FILES DOES BLACK TURN SUPPORT?",
+      question: "WHAT KIND OF VIDEO FILES DOES Kushal Mangal SUPPORT?",
       answer: "Video specifications differ per DSP. Generally, we advise adhering to the following specifications:",
       listItems: [
         "HD Resolution: 1920×1080 or 1280×720",

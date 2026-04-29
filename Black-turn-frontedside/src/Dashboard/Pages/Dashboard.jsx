@@ -876,7 +876,7 @@ const Dashboard = () => {
           {/* Footer Info */}
           <div className="p-6 rounded-xl bg-white border border-gray-200 text-center">
             <p className="text-sm text-gray-500 mb-2">
-              © 2025 BLACK TURN Music Distribution. All rights reserved.
+              © 2025 Kushal Mangal Music Distribution. All rights reserved.
             </p>
             <p className="text-xs text-gray-500">
               For support: +91 9817889799 | Email: support@blackturn.com

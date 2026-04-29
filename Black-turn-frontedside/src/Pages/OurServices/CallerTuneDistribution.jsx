@@ -110,7 +110,7 @@ const CallerTuneDistribution = () => {
       number: "02",
       icon: <Upload />,
       title: "Earning & Payouts",
-      subtitle: "Whatever revenue you generate from playing or downloading your song or tune, The Black Turn Digital Private Limitedcollects it from all networks and DSP and transfers your royalty to your bank account. We keep collecting your royalty for lifetime and transfer it to you. You do not have to manually follow up or send mail. We have auto payment here, so whenever your payment comes, it will be received directly in your bank account. We are smart to make payment in all currencies like: USD, Euro etc.",
+      subtitle: "Whatever revenue you generate from playing or downloading your song or tune, The Kushal Mangal Digital Private Limitedcollects it from all networks and DSP and transfers your royalty to your bank account. We keep collecting your royalty for lifetime and transfer it to you. You do not have to manually follow up or send mail. We have auto payment here, so whenever your payment comes, it will be received directly in your bank account. We are smart to make payment in all currencies like: USD, Euro etc.",
       isHover: false
     },
     {
