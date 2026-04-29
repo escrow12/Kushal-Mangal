@@ -465,7 +465,7 @@ const Dashboard = () => {
             <div className="flex flex-col lg:flex-row items-center justify-between">
               <div className="flex-1 mb-6 lg:mb-0">
                 <h1 className={`text-2xl md:text-3xl font-bold mb-2 ${isMobile ? 'text-[#005f73]' : 'text-[#005f73]'}`}>
-                  Welcome to  Kushal Mangal Family
+                  Welcome to The Kushal Entertainment Family
                 </h1>
                 <p className={`mb-4 ${isMobile ? 'text-[#005f73]' : 'text-[#005f73]'}`}>
                   Team on 9817889799 currently unavailable. For Urgent Inquiries WhatsApp us at 📞 9817889799.
@@ -876,7 +876,7 @@ const Dashboard = () => {
           {/* Footer Info */}
           <div className="p-6 rounded-xl bg-white border border-gray-200 text-center">
             <p className="text-sm text-gray-500 mb-2">
-              © 2025 Kushal Mangal Music Distribution. All rights reserved.
+              © 2025 The Kushal Entertainment Music Distribution. All rights reserved.
             </p>
             <p className="text-xs text-gray-500">
               For support: +91 9817889799 | Email: support@blackturn.com

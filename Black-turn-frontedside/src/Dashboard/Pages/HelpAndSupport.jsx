@@ -101,7 +101,7 @@ function HelpAndSupport() {
                   <Mail className="text-[#005f73] mr-3" size={20} />
                   <h3 className="font-medium text-[16px]">Email Us</h3>
                 </div>
-                <p className="text-gray-700 text-sm">contact@theblackturn.com</p>
+                <p className="text-gray-700 text-sm">contact@TheKushalEntertainment.com</p>
               </div>
 
               <div className="bg-white p-6 rounded-lg shadow-sm border-t-4 border-[#005f73]">

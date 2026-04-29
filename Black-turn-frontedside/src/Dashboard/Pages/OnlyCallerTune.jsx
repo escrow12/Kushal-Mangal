@@ -735,7 +735,7 @@ function OnlyCallerTune() {
                                                 required
                                             />
                                             <label htmlFor="agreeTerms" className="text-sm text-gray-700 leading-relaxed">
-                                                I have read and agree to the website <span className="text-blue-600 underline cursor-pointer">terms and conditions</span>. I Confirm, This is not a cover song, if this is a cover song then cancel this order with no refund. I have the copyright, and I'm not giving it to TheBlackturn. They're just helping monetizing and distributing my song worldwide. This is not a cover song. In case of any third party claim, I have documentary evidence to prove my ownership of the song.
+                                                I have read and agree to the website <span className="text-blue-600 underline cursor-pointer">terms and conditions</span>. I Confirm, This is not a cover song, if this is a cover song then cancel this order with no refund. I have the copyright, and I'm not giving it to TheKushalEntertainment. They're just helping monetizing and distributing my song worldwide. This is not a cover song. In case of any third party claim, I have documentary evidence to prove my ownership of the song.
                                             </label>
                                         </div>
                                     </div>

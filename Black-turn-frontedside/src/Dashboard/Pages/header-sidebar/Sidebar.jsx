@@ -8,7 +8,7 @@ import {
   FiChevronUp, FiLink, FiPlus, FiHeadphones, FiShield,
   FiAlertTriangle
 } from 'react-icons/fi';
-import logo from '../../../assets/images/logo1.png';
+import logo from '../../../assets/images/logo.png';
 import logo1 from '../../../assets/images/logo.png';
 
 const Sidebar = ({ isOpen = true }) => {
@@ -278,9 +278,23 @@ const Sidebar = ({ isOpen = true }) => {
       <div className={`fixed lg:sticky top-0 left-0 h-screen z-40 transition-all duration-300 ${isOpen ? 'translate-x-0' : '-translate-x-full'} lg:translate-x-0 ${isOpen ? 'w-64' : 'w-16'} bg-white border-r border-gray-200 shadow-lg flex flex-col mt-18 lg:mt-0`}>
         
         <div className="flex-shrink-0 p-4 border-b border-gray-200">
-          <div className="flex items-center justify-center">
-            <img src={isOpen ? logo : logo1} alt="Logo" className="h-12 object-contain" />
-          </div>
+           <div className="max-w-screen-xl mx-auto flex items-center justify-between px-6 py-3">
+                            {/* LOGO */}
+                            <a href="/" className="flex items-center">
+                              <img src={logo} className="h-14 w-auto" alt="Logo" />
+                              <div className="hidden sm:flex flex-col items-center justify-center leading-[1.15]">
+                                <p className="text-[11px] font-bold tracking-widest text-[#045b5f]">
+                                  THE KUSHAL
+                                </p>
+                                <p className="text-[11px] font-bold tracking-widest text-[#045b5f]">
+                                  MANGAL
+                                </p>
+                                <p className="text-[11px] font-bold tracking-widest text-[#045b5f]">
+                                  Entertainment
+                                </p>
+                              </div>
+                            </a>
+                          </div>
         </div>
 
         <nav className="flex-1 overflow-y-auto overflow-x-hidden px-2 py-4 custom-scrollbar">

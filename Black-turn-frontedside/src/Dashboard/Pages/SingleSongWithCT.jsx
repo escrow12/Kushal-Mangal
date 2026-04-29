@@ -810,7 +810,7 @@ function SingleSongWithCT() {
                                                     className={`w-5 h-5 text-[#005f73] border-gray-300 rounded focus:ring-[#005f73] mt-1 ${errors.agreeTerms ? 'border-red-500' : ''}`}
                                                 />
                                                 <label htmlFor="agreeTerms" className="text-sm text-gray-700 leading-relaxed">
-                                                    I have read and agree to the website <span className="text-blue-600 underline cursor-pointer">terms and conditions</span>. I Confirm, This is not a cover song, if this is a cover song then cancel this order with no refund. I have the copyright, and I'm not giving it to Theblackturn. They're just helping monetizing and distributing my song worldwide. This is not a cover song. In case of any third party claim, I have documentary evidence to prove my ownership of the song.
+                                                    I have read and agree to the website <span className="text-blue-600 underline cursor-pointer">terms and conditions</span>. I Confirm, This is not a cover song, if this is a cover song then cancel this order with no refund. I have the copyright, and I'm not giving it to TheKushalEntertainment. They're just helping monetizing and distributing my song worldwide. This is not a cover song. In case of any third party claim, I have documentary evidence to prove my ownership of the song.
                                                 </label>
                                             </div>
                                             {errors.agreeTerms && <p className="text-red-500 text-xs ml-8">{errors.agreeTerms}</p>}

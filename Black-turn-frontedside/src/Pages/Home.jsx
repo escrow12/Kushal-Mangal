@@ -129,7 +129,7 @@ function Home() {
 
   const steps = [
     { id: 1, title: 'Earnings from music streaming', icon: Music },
-    { id: 2, title: 'theblackturn.com', icon: Monitor },
+    { id: 2, title: 'TheKushalEntertainment.com', icon: Monitor },
     { id: 3, title: 'Bank', icon: Building },
     { id: 4, title: 'Record labels', icon: Database },
   ];
@@ -253,7 +253,7 @@ function Home() {
     {
       id: 1,
       title: "YT World",
-      content: "Hello, Team The Black Turn Digital Private Limited,The attention to detail with which you helped me understand the initial concept of digital distribution platform and how can I make more revenue is in a league of its own 👏. I am incredibly pleased with the quality of customer service provided to me🤟🤟🤟🤟.The best service provider I have ever met. 😊😊😊😊😊😊",
+      content: "Hello, Team The Kushal Entertainment Digital Private Limited,The attention to detail with which you helped me understand the initial concept of digital distribution platform and how can I make more revenue is in a league of its own 👏. I am incredibly pleased with the quality of customer service provided to me🤟🤟🤟🤟.The best service provider I have ever met. 😊😊😊😊😊😊",
       date: "18. June, 2021.",
       img: client1,
       rating: 5
@@ -285,7 +285,7 @@ function Home() {
     {
       id: 5,
       title: "Knowledge Jinni",
-      content: "I researched several digital distribution platforms, but among them all, I really liked The Black Turn Digital Private Limited Platform. Among the many reasons I chose The Black Trun is for a few reasons such as It is the only platform that provides us with free caller tune conversions, through which we can increase our revenue. The second is free ISRC and UPC codes, ISRC and UPC codes are a paid service on many platforms, while this important service is free on The Black Turn Digital Private Limited. Third, the only paid platform gives us up to 95% of revenue which is a huge amount for me, and best of all Instant service, reply and solution. Industry Khatam Bhai..... Industry Khatam..... Guys, I must say The Black Turn Digital Private Limited Rocks Man...",
+      content: "I researched several digital distribution platforms, but among them all, I really liked The Kushal Entertainment Digital Private Limited Platform. Among the many reasons I chose The Kushal Entertainment Trun is for a few reasons such as It is the only platform that provides us with free caller tune conversions, through which we can increase our revenue. The second is free ISRC and UPC codes, ISRC and UPC codes are a paid service on many platforms, while this important service is free on The Kushal Entertainment Digital Private Limited. Third, the only paid platform gives us up to 95% of revenue which is a huge amount for me, and best of all Instant service, reply and solution. Industry Khatam Bhai..... Industry Khatam..... Guys, I must say The Kushal Entertainment Digital Private Limited Rocks Man...",
       date: "16.June, 2021.",
       img: client5,
       rating: 5
@@ -301,7 +301,7 @@ function Home() {
     {
       id: 7,
       title: "The Pawsitive Effects",
-      content: "Amazing budget service with instant response. But I must say that The Black Turn Digital Private Limited platform helped me a lot to generate my first revenue.",
+      content: "Amazing budget service with instant response. But I must say that The Kushal Entertainment Digital Private Limited platform helped me a lot to generate my first revenue.",
       date: "15.June, 2021.",
       img: silder,
       rating: 5
@@ -309,7 +309,7 @@ function Home() {
     {
       id: 8,
       title: "Mudit Chauhan",
-      content: "In the digital distribution industry where customers are worried about how to start, how to manage, the black turn Digital Private Limited does it all for you. It is the only easy-to-use platform of its kind where uploading songs is a game and generating handsome revenue seems like My Dreams Come True.... The Black Turn Digital Private Limited Rocks..... Highly Recommended",
+      content: "In the digital distribution industry where customers are worried about how to start, how to manage, The Kushal Entertainment Digital Private Limited does it all for you. It is the only easy-to-use platform of its kind where uploading songs is a game and generating handsome revenue seems like My Dreams Come True.... The Kushal Entertainment Digital Private Limited Rocks..... Highly Recommended",
       date: "14.June, 2021.",
       img: client7,
       rating: 5
@@ -317,7 +317,7 @@ function Home() {
     {
       id: 9,
       title: "Ankur Chauhan",
-      content: "This Is One Of best Music Distribution company Plus apni indian company hai Apni indian company ko support kare guys Thank You So Much The Black Turn Digital Private Limited 🙌🙌",
+      content: "This Is One Of best Music Distribution company Plus apni indian company hai Apni indian company ko support kare guys Thank You So Much The Kushal Entertainment Digital Private Limited 🙌🙌",
       date: "11.June, 2021.",
       img: client7,
       rating: 5
@@ -436,7 +436,7 @@ function Home() {
     },
     {
       title: "24/7 Phone Support",
-      description: "Call Any Time : +919729786689 Mail us : contact@theblackturn.com"
+      description: "Call Any Time : +919729786689 Mail us : contact@TheKushalEntertainment.com"
     },
     {
       title: "Old Song(Already Released Song) Caller Tune",
@@ -716,7 +716,7 @@ function Home() {
             </h1>
 
             <p className="text-gray-700 mb-6 text-base md:text-[16px] max-w-[650px] mx-auto xl:mx-0">
-              The Black Turn Digital Private Limited is your gateway to global music distribution, empowering artists to seamlessly
+              The Kushal Entertainment Digital Private Limited is your gateway to global music distribution, empowering artists to seamlessly
               share their creativity across more than 150 streaming platforms, including Spotify, Apple
               Music, and JioSaavn. By choosing our services, you will unlock the potential for your music to
               reach a wider audience, all while retaining an impressive 95% of your earnings. With our
@@ -1121,7 +1121,7 @@ function Home() {
                   Reporting & Revenue Analytics
                 </h2>
                 <p className="text-slate-900 text-lg leading-relaxed font-medium">
-                  Track Your Growth, Earnings & Opportunities – With The Black Turn Digital Private Limited
+                  Track Your Growth, Earnings & Opportunities – With The Kushal Entertainment Digital Private Limited
                 </p>
               </div>
 
@@ -1132,7 +1132,7 @@ function Home() {
                 </p>
 
                 <p className="text-slate-500 leading-relaxed">
-                  The Black Turn Digital Private Limited introduces a smart, auto-updated system that manages all revenue
+                  The Kushal Entertainment Digital Private Limited introduces a smart, auto-updated system that manages all revenue
                   and reporting in a single dashboard.
                 </p>
               </div>
@@ -1381,7 +1381,7 @@ function Home() {
                 >
                   <div className="space-y-3">
                     <p className="text-[#b8dce3] text-sm sm:text-base font-medium">
-                      Elevate Your Music Career with The Black Turn Digital Private Limited
+                      Elevate Your Music Career with The Kushal Entertainment Digital Private Limited
                     </p>
                     <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold leading-tight">
                       Decision-Making
@@ -1503,7 +1503,7 @@ function Home() {
               </h1>
 
               <p className="text-gray-700 text-base md:text-[16px] max-w-[650px] mx-auto xl:mx-0 leading-relaxed">
-                The Black Turn Digital Private Limited is your gateway to global music distribution, empowering artists to seamlessly
+                The Kushal Entertainment Digital Private Limited is your gateway to global music distribution, empowering artists to seamlessly
                 share their creativity across more than 150 streaming platforms, including Spotify, Apple
                 Music, and JioSaavn. By choosing our services, you will unlock the potential for your music to
                 reach a wider audience, all while retaining an impressive 95% of your earnings. With our
@@ -2018,7 +2018,7 @@ function Home() {
             Hear What Our Artists Are Achieving
           </h1>
           <p className="mt-4 text-base sm:text-lg text-gray-600">
-            Join a community of thriving musicians who trust The Black Turn Digital Private Limited to amplify their reach and revenue.
+            Join a community of thriving musicians who trust The Kushal Entertainment Digital Private Limited to amplify their reach and revenue.
           </p>
         </div>
 
@@ -2144,13 +2144,13 @@ function Home() {
       Download the app
     </h2>
     <p className="text-lg text-gray-600 mb-4">
-      Music Distribution India - The Black Turn Digital Private Limited
+      Music Distribution India - The Kushal Entertainment Digital Private Limited
     </p>
 
     {/* App Store Buttons */}
     <div className="flex flex-col sm:flex-row justify-center lg:justify-start gap-4">
       <a
-        href="https://play.google.com/store/apps/details?id=com.theblackturn.app"
+        href="https://play.google.com/store/apps/details?id=com.TheKushalEntertainment.app"
         target="_blank"
         rel="noopener noreferrer"
         className="flex items-center gap-3 bg-[#005F73] text-white px-6 py-3 rounded-lg hover:bg-teal-700 transition-colors"

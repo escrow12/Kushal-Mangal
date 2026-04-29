@@ -161,32 +161,32 @@ const MusicDistribution = () => {
       {
         title: 'Fastest Approval Time',
         description: 'We approve your song very fast with no time. We deliver on all platforms minimum (3-5 Days) Maximum(8-10 Days)',
-        icon: 'https://theblackturn.com/wp-content/uploads/2021/03/on-deman-asset-loading1.svg',
+        icon: 'https://TheKushalEntertainment.com/wp-content/uploads/2021/03/on-deman-asset-loading1.svg',
       },
       {
         title: 'Custom CRBT (Call Ring Back Tune)',
         description: 'Creates 1-4 custom caller tone for Airtel, VI, Bsnl, & 4s sec single JioTune. Deliver caller tune Min. (3-5 days) max. (5-8 days)',
-        icon: 'https://theblackturn.com/wp-content/uploads/2021/03/line-icon2.svg',
+        icon: 'https://TheKushalEntertainment.com/wp-content/uploads/2021/03/line-icon2.svg',
       },
       {
         title: 'Free ISRC and UPC code',
         description: 'If you are a new artist no worry we provide a fresh unlimited artist UPC or ISRC code for your every Audio & Video Album.',
-        icon: 'https://theblackturn.com/wp-content/uploads/2021/03/site-sync-vector.svg',
+        icon: 'https://TheKushalEntertainment.com/wp-content/uploads/2021/03/site-sync-vector.svg',
       },
       {
         title: '95% Royalty',
         description: 'Get Your Monthly Reports with no changes we send you original reports with cut our percentage we don’t hide anything.',
-        icon: 'https://theblackturn.com/wp-content/uploads/2021/03/floating-effect.svg',
+        icon: 'https://TheKushalEntertainment.com/wp-content/uploads/2021/03/floating-effect.svg',
       },
       {
         title: 'Custom Record Label',
         description: 'Get Your Custom C and P Line, Custom Label Name, Unlimited Lifetime Releases, with Unlimited artist.',
-        icon: 'https://theblackturn.com/wp-content/uploads/2021/03/live-copy.svg',
+        icon: 'https://TheKushalEntertainment.com/wp-content/uploads/2021/03/live-copy.svg',
       },
       {
         title: 'One Time Payment',
         description: 'Pay Once Your song lives for Life Time. Accepted Payment through NEFT PayTM, GPay, PayPal, UPI, PhonePe, etc.',
-        icon: 'https://theblackturn.com/wp-content/uploads/2021/03/section-nesting.svg',
+        icon: 'https://TheKushalEntertainment.com/wp-content/uploads/2021/03/section-nesting.svg',
       },
     ];
   const steps = [
@@ -803,7 +803,7 @@ const MusicDistribution = () => {
               You keep 100% of your royalties!
             </h2>
             <p className="text-gray-700 mb-4 sm:mb-6 text-base sm:text-lg leading-relaxed">
-              Kushal Mangal never takes a cut of your deals. Each penny you gain is put right into you're the Kushal Mangal Digital Private Limited account. At Kushal mangal, we know that your money matters and we respect your passion for music.Comprehensive Sales Data
+              Kushal Mangal never takes a cut of your deals. Each penny you gain is put right into you're The Kushal EntertainmentEntertainment Digital Private Limited account. At Kushal mangal, we know that your money matters and we respect your passion for music.Comprehensive Sales Data
             </p>
 
             <p className="text-gray-700 mb-6 sm:mb-8 text-base sm:text-lg leading-relaxed">

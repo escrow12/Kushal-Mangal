@@ -14,25 +14,25 @@ function Aboutus() {
       name: 'Facebook',
       icon: '📘',
       textColor: 'text-blue-600',
-      link:'https://www.facebook.com/TheBlackTurnindia'
+      link:'https://www.facebook.com/TheKushalEntertainmentindia'
     },
     {
       name: 'Instagram',
       icon: '📷',
       textColor: 'text-pink-600',
-      link:'https://www.instagram.com/theblackturn/'
+      link:'https://www.instagram.com/TheKushalEntertainment/'
     },
     {
       name: 'Twitter',
       icon: '🐦',
       textColor: 'text-black',
-      link:'https://twitter.com/theblackturnIND'
+      link:'https://twitter.com/TheKushalEntertainmentIND'
     },
     {
       name: 'YouTube',
       icon: '📺',
       textColor: 'text-red-600',
-      link:'https://in.pinterest.com/theblackturn/'
+      link:'https://in.pinterest.com/TheKushalEntertainment/'
     }
   ];
   return (
