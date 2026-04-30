@@ -92,7 +92,7 @@ function Header() {
                         MANGAL
                       </p>
                       <p className="text-[11px] font-bold tracking-widest text-[#045b5f]">
-                        Entertainment
+                        ENTERTAINMENT
                       </p>
                     </div>
                   </a>
